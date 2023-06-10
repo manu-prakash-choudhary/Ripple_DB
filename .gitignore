@@ -1,0 +1,16 @@
+node_modules
+*.log*
+.db
+Thumb.db
+.DS_Store
+dist
+build
+flow-coverage
+coverage
+.vscode
+report.*.json
+benchmarks/*.js
+fixtures/*.js
+scripts/*.js
+flamegraph.html
+rippledb-deno
